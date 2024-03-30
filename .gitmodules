@@ -5,3 +5,6 @@
 [submodule "rnmamod"]
 	path = rnmamod
 	url = https://github.com/loukiaspin/rnmamod
+[submodule "tracenma"]
+	path = tracenma
+	url = https://github.com/loukiaspin/tracenma
